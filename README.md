@@ -1,6 +1,6 @@
 # Hi there , I'm Mayank :)
 
-### Interested in Web development and a Mathphile.
+### Interested in Web development.
 
 <!-- [![Website](https://img.shields.io/website?label=Tracer&style=for-the-badge&url=https%3A%2F%2Ftracer.syscape.live)](https://tracer.syscape.live) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/mayank_budhdeo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmayank_budhdeo&screen_name=mayank_budhdeo)
