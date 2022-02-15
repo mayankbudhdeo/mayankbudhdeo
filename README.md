@@ -15,7 +15,7 @@
 <!-- [website]: https://tracer.syscape.live -->
 [twitter]: https://twitter.com/mayank_budhdeo
 [linkedin]: https://www.linkedin.com/in/mayank-budhdeo-a58a57a1/
-[instagram]: https://www.instagram.com/mayank.budhdeo/
+[instagram]: https://www.instagram.com/mayank_budhdeo/
 
 <br />
 <br />
